@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PaladinAOE2
+- 🌱 I’m currently learning to code
